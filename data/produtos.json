@@ -1,0 +1,122 @@
+[
+  {
+      "Produto": "Âncora de aço",
+      "Peso": "5500.00 lbs",
+      "Comprimento": "9.50 ft",
+      "Largura": "5.00 ft"
+  },
+  {
+      "Produto": "Cabos de amarração de nylon",
+      "Peso": "2750.00 lbs",
+      "Comprimento": "350.00 ft",
+      "Largura": "0.30 ft"
+  },
+  {
+      "Produto": "Cunhos de bronze",
+      "Peso": "100.00 lbs",
+      "Comprimento": "2.00 ft",
+      "Largura": "0.20 ft"
+  },
+  {
+      "Produto": "Boias de sinalização sonora",
+      "Peso": "75.00 lbs",
+      "Comprimento": "4.00 ft",
+      "Largura": "3.00 ft"
+  },
+  {
+      "Produto": "Botes infláveis",
+      "Peso": "300.00 lbs",
+      "Comprimento": "5.00 ft",
+      "Largura": "2.00 ft"
+  },
+  {
+      "Produto": "Placas em alumínio",
+      "Peso": "2000.00 lbs",
+      "Comprimento": "10.00 ft",
+      "Largura": "3.00 ft"
+  },
+  {
+      "Produto": "Luzes de LED para convés",
+      "Peso": "100.00 lbs",
+      "Comprimento": "4.00 ft",
+      "Largura": "2.00 ft"
+  },
+  {
+      "Produto": "Hastes de aço galvanizado",
+      "Peso": "800.00 lbs",
+      "Comprimento": "350.00 ft",
+      "Largura": "0.30 ft"
+  },
+  {
+      "Produto": "Macaco hidráulico",
+      "Peso": "12000.00 lbs",
+      "Comprimento": "35.00 ft",
+      "Largura": "10.00 ft"
+  },
+  {
+      "Produto": "Brocas de titânio",
+      "Peso": "18000.00 lbs",
+      "Comprimento": "7.00 ft",
+      "Largura": "9.00 ft"
+  },
+  {
+      "Produto": "Mangueira de alta pressão automática",
+      "Peso": "7000.00 lbs",
+      "Comprimento": "4.00 ft",
+      "Largura": "4.00 ft"
+  },
+  {
+      "Produto": "Vigas de metal pesado",
+      "Peso": "1500.00 lbs",
+      "Comprimento": "5.00 ft",
+      "Largura": "1.50 ft"
+  },
+  {
+      "Produto": "Porcas em aço inoxidável",
+      "Peso": "2.50 lbs",
+      "Comprimento": "1.80 ft",
+      "Largura": "0.90 ft"
+  },
+  {
+      "Produto": "Ferramentas de corte portáteis",
+      "Peso": "25.00 lbs",
+      "Comprimento": "1.60 ft",
+      "Largura": "0.90 ft"
+  },
+  {
+      "Produto": "Escotilhas de alumínio",
+      "Peso": "7000.00 lbs",
+      "Comprimento": "3.50 ft",
+      "Largura": "1.50 ft"
+  },
+  {
+      "Produto": "Parafusos em aço inoxidável",
+      "Peso": "50.00 lbs",
+      "Comprimento": "0.50 ft",
+      "Largura": "0.20 ft"
+  },
+  {
+      "Produto": "Extintor de combate a incêndio",
+      "Peso": "150.00 lbs",
+      "Comprimento": "3.50 ft",
+      "Largura": "1.50 ft"
+  },
+  {
+      "Produto": "Radar de alta precisão",
+      "Peso": "750.00 lbs",
+      "Comprimento": "1.60 ft",
+      "Largura": "1.00 ft"
+  },
+  {
+      "Produto": "Sirenes de neblina",
+      "Peso": "25.00 lbs",
+      "Comprimento": "1.60 ft",
+      "Largura": "0.90 ft"
+  },
+  {
+      "Produto": "Válvulas de segurança em aço",
+      "Peso": "25.00 lbs",
+      "Comprimento": "1.60 ft",
+      "Largura": "0.90 ft"
+  }
+]
