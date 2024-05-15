@@ -1,5 +1,5 @@
-import etl_csv
-import etl_json
+import pipelines.etl_csv as etl_csv
+import pipelines.etl_json as etl_json
 import pandas as pd
 
 dados_csv = etl_csv.main()

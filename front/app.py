@@ -2,6 +2,7 @@ import streamlit as st
 from minio import Minio
 from minio.error import S3Error
 import os
+from settings import chave_acesso, chave_secreta, nome_bucket
 
 def upload_file(uploaded_file):
     with open(os.path.join("temp_files", uploaded_file.name), "wb") as f:
@@ -12,12 +13,12 @@ def save_to_minio(file_path):
     # Upload do arquivo para o MinIO
     minio_client = Minio(
         "localhost:9000",
-        access_key="",
-        secret_key="",
+        access_key=chave_acesso,
+        secret_key=chave_secreta,
         secure=False
     )
 
-    bucket_name = "landing"
+    bucket_name = nome_bucket
     object_name = os.path.basename(file_path)
 
     try:
