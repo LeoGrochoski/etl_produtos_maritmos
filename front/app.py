@@ -39,6 +39,5 @@ def main():
         st.write(f"Link para download do arquivo: {file_url}")
 
 if __name__ == "__main__":
-    # Criar diretório temporário para salvar os arquivos temporários
     os.makedirs("temp_files", exist_ok=True)
     main()
